@@ -70,7 +70,7 @@
     "node-gost-crypto": "^1.0.2",
     "qrcode-generator": "^1.4.4",
     "qrcode-reader": "^1.0.4",
-    "vue": "^2.7.16",
+    "vue": "^3.0.0",
     "vue2-dragula": "^2.5.4",
     "vuex": "^3.4.0"
   }
